@@ -1,0 +1,9 @@
+﻿  Main.cpp
+c:\users\knigh\desktop\vich math\interpolation\interpolation\main.cpp(95): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\knigh\desktop\vich math\interpolation\interpolation\main.cpp(102): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+c:\users\knigh\desktop\vich math\interpolation\interpolation\main.cpp(104): warning C4305: инициализация: усечение из "double" в "float"
+  Interpolation.vcxproj -> C:\Users\KNIGH\Desktop\Vich Math\Interpolation\Debug\Interpolation.exe
